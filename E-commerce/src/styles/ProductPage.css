@@ -1,0 +1,9 @@
+.product-page {
+  padding: 2rem;
+  text-align: center;
+}
+
+.product-page h2 {
+  font-size: 1.75rem;
+  margin-bottom: 1rem;
+}

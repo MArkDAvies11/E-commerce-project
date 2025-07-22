@@ -1,0 +1,15 @@
+.cart {
+  padding: 2rem;
+  background-color: #fff;
+  min-height: 50vh;
+}
+
+.cart h2 {
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+.cart p {
+  font-size: 1rem;
+  color: #555;
+}

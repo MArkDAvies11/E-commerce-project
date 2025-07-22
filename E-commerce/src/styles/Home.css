@@ -1,0 +1,9 @@
+.home {
+  padding: 1rem 2rem;
+  text-align: center;
+}
+
+.home h2 {
+  font-size: 2rem;
+  margin-bottom: 2rem;
+}
